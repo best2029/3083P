@@ -1,0 +1,9 @@
+.icon-border{
+    border-radius: 10px;
+}
+.card{
+    border-radius: 15px !important;
+}
+a{
+    color: white !important;
+}
